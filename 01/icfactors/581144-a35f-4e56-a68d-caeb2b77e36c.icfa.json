@@ -6,8 +6,8 @@
         "value": 1.0
     },
     "H1": {
-        "error": 0.0005530247408313622,
-        "fit": "Weighted Mean",
+        "error": 0.0007646611312795606,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "omit",
@@ -92,7 +92,7 @@
         ],
         "reviewed": true,
         "standard_ratio": 6.600975,
-        "value": 1.0094306708473209
+        "value": 1.001501478355186
     },
     "H2": {
         "error": 1e-20,
