@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "1.5",
+    "cleanup_duration": 45.0,
+    "commit": "d723ad98c3e7546b77e96eb80b1bd40589c8492a",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "",
+    "extract_value": 5.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "145-hole",
+    "load_name": "D0102",
+    "measured_response": "tgfETgAAAAAQl5M+AAD6RDaOEkAAAPpEVz+JQAAA+kS5bslAAAD6RIC2BEEAAPpEu70kQQAA+kTM2kRBAAD6RLLoZEEAAPpE136CQQAA+kRvfpJBAAD6RL9+okEAAPpE15CyQQAA+kQ1msJBAAD6RPGa0kEAAPpESpriQQAA+kQJoPJBAAD6RExPAUIAAPpEpVEJQgAA+kTfVxFCAAD6RARdGUIAAPpE0mMhQgAA+kSLaylCAAD6RGJsMUIAAPpEv3o5QgAA+kTue0FCAAD6RKuRSUIAAPpE",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 88,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "tgfETgAAAAAQl5M+vhm5QTaOEkAAAAAAVz+JQAAAAAC5bslAAAAAAIC2BEEAAAAAu70kQau7j0HM2kRBvuCZQbLoZEH0vaNB136CQT9drUFvfpJB4ca2Qb9+okG+GblB15CyQb4ZuUE1msJBvhm5QfGa0kG+GblBSpriQb4ZuUEJoPJBvhm5QUxPAUK+GblBpVEJQr4ZuUHfVxFCvhm5QQRdGUK+GblB0mMhQr4ZuUGLaylCvhm5QWJsMUK+GblBv3o5Qr4ZuUHue0FCvhm5QauRSUK+GblB",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
